@@ -27,3 +27,5 @@ gen### Example user template template
 
 # IntelliJ project files
 gen
+src/main/resources/
+src/test/
